@@ -10,17 +10,17 @@ title: Test
 Some content goes here
 
 {% highlight JavaScript %}
-	function(a:number, b:string){
-		console.writeline(a);
-		if ( b == null)
-			return a+1;
-		return a;
-	}
+function(a:number, b:string){
+	console.writeLine(a);
+	if ( b == null)
+		return a+1;
+	return a;
+}
 {% endhighlight  %}
 
 
 	function(a:number, b:string){
-		console.writeline(a);
+		console.writeLine(a);
 		if ( b == null)
 			return a+1;
 		return a;
