@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title: Test 
 ---
 
@@ -9,7 +9,7 @@ title: Test
 
 Some content goes here
 
-{% highlight JavaScript %}
+{% highlight ruby %}
 function(a:number, b:string){
 	console.writeLine(a);
 	if ( b == null)
