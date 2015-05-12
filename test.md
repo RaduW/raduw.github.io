@@ -18,10 +18,11 @@ function(a:number, b:string){
 }
 {% endhighlight  %}
 
-
+``` javascript
 	function(a:number, b:string){
 		console.writeLine(a);
 		if ( b == null)
 			return a+1;
 		return a;
 	}
+```	
