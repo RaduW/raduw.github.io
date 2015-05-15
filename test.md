@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title: Test 
 ---
 
@@ -9,7 +9,7 @@ title: Test
 
 Some content goes here
 
-{% highlight JavaScript %}
+{% highlight ruby %}
 function(a:number, b:string){
 	console.writeLine(a);
 	if ( b == null)
@@ -18,10 +18,11 @@ function(a:number, b:string){
 }
 {% endhighlight  %}
 
-
+``` javascript
 	function(a:number, b:string){
 		console.writeLine(a);
 		if ( b == null)
 			return a+1;
 		return a;
 	}
+```	
