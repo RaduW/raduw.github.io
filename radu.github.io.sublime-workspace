@@ -1,0 +1,380 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/raduw/BKP/BackInTimeBackup/backintime/Magpie/root/2/20150503-151305-924/backup/home/raduw/bin/setwm.py",
+		"/data/raduwHome/dev/SoforCms/.git/config",
+		"/data/raduwHome/dev/AngularTests/scrollTesting.html",
+		"/data/raduwHome/dev/AngularTests/index.html",
+		"/etc/rc0.d/S40umountfs",
+		"/etc/init.d/mountBackupDrives",
+		"/etc/fstab",
+		"/var/log/syslog",
+		"/data/soforCmsData/consolidations/docs/2003/00070193-2004-12-30.xml",
+		"/var/log/soforCms/legaturiError/Legatura_2876.xml",
+		"/var/log/soforCms/legaturiError/Legatura_2876.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_2876.original.xml",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatie/doc/1992/00001286.htm",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatie/doc/2008/00109301.htm",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatiesintetice/cuprins_docs/2003/00070193-2004-12-30.txt",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatiesintetice/cuprins_docs/2003/00070193-2015-01-31.txt",
+		"/data/raduwHome/dev/SoforCms/src/cms/static/cms/typescript/file1.ts",
+		"/data/raduwHome/dev/SoforCms/src/cms/static/cms/js/file1.js",
+		"/data/raduwHome/dev/External/django-tastypie/tastypie/resources.py",
+		"/data/raduwHome/dev/AngularTests/typescript/ScrollerMarker.ts",
+		"/data/raduwHome/dev/AngularTests/typescript/Modification.ts",
+		"/home/raduw/.config/awesome/rc.lua",
+		"/home/raduw/.config/awesome/raduw/menu.lua",
+		"/usr/local/lib/python2.7/dist-packages/tastypie/resources.py",
+		"/data/raduwHome/dev/SoforCms/src/cms/static/cms/typescript/file1.js",
+		"/data/raduwHome/dev/SoforCms/js/file1.js",
+		"/data/soforCmsData/consolidations/docs/2005/00085905-2008-07-24.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0817.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0814.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0726.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0725.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0724.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0723.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0722.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0720.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0719.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0721.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0491.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0409.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0407.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0405.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0404.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0403.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0323.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0322.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0320.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0319.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0318.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0317.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0314.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0312.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0311.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0309.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0006.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0005.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0004.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0004.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0003.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0003.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0002.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0002.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0001.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0001.flat.original.xml",
+		"/data/soforCmsData/consolidations/maps/2003/00070193-2009-05-27.txt",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatie/doc/1995/00004689.htm",
+		"/data/soforCmsData/consolidations/docs/1990/00078665-3000-01-01.xml",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatie/doc/1998/00018603.htm",
+		"/data/soforCmsData/consolidations/docs/1990/00078665-2003-09-15.txt",
+		"/data/soforCmsData/consolidations/docs/1990/00000420-1991-05-04.txt",
+		"/data/soforCmsData/consolidations/docs/2001/00082128-2004-10-25.txt",
+		"/data/soforCmsData/consolidations/docs/2001/00085905-2010-03-04.txt",
+		"/data/soforCmsData/consolidations/docs/2003/00070193-2005-02-03.txt",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatie/doc/2001/00048136.htm",
+		"/var/log/soforCms/error.txt",
+		"/data/soforCmsData/consolidations/maps/2006/00092148-2006-04-05.txt",
+		"/data/soforCmsData/consolidations/maps/2010/00137585-2010-11-11.txt",
+		"/data/soforCmsData/consolidations/maps/2010/00137564-2010-10-26.txt",
+		"/data/soforCmsData/consolidations/maps/2015/00168519-2015-01-21.txt",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatiesintetice/cuprins_docs.converted/2009/00126738-2010-10-27.txt",
+		"/data/soforCmsData/docsAndDb/cmsGlobalRepository/L1_000/L2_004/000_004_844.original.xml",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatie/doc/1991/00000741.htm",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatiesintetice/cuprins_docs/2009/00126738-2011-12-25.txt",
+		"/data/soforCmsData/consolidations/maps/1991/00000731-1991-03-29.txt",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatiesintetice/cuprins_docs/2015/00168029-2015-01-13.txt",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatiesintetice/cuprins_docs/2009/00126738-2011-02-15.txt",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatiesintetice/cuprins_docs/2009/00126738-2011-02-11.txt",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatiesintetice/cuprins_docs.converted/2005/00084843-2011-12-06.txt",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatiesintetice/cuprins_docs.converted/2005/00080589-2008-12-18.txt",
+		"/var/log/soforCms/legaturiError/Legatura_4521.original.xml",
+		"/data/raduwHome/dev/SoforCms/src/experiments/Mod-1170.xml",
+		"/var/log/soforCms/log.txt",
+		"/data/raduwHome/dev/SoforCms/src/test_unit/importLegacy/TestFiles/OriginalFileValidator/quoteNode.xml",
+		"/var/log/soforCms/legaturiError/Legatura_2447.original.xml",
+		"/var/log/soforCms/log_old.txt",
+		"/var/log/soforCms/legaturiError/Legatura_0330.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_2242.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_2242.original.xml",
+		"/var/log/soforCms/warning.txt",
+		"/var/log/soforCms/ajustari.txt",
+		"/usr/share/applications/pencil.desktop",
+		"/home/raduw/dev/ShellWePython/shellwepy/foreachfile.py",
+		"/var/log/soforCms/legaturiError/Legatura_7774.xml",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatiesintetice/cuprins_docs/2004/00078665-2014-02-01.txt",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatiesintetice/cuprins_docs/2003/00070193-2015-02-13.txt",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatie/cuprins_docs/2003/00070193.txt",
+		"/data/raduwHome/dev/SoforCms/src/logs.txt",
+		"/tmp/qapt-deb-installer/usr/share/pencil/license.txt",
+		"/var/log/soforCms/legaturiError/Legatura_5418.xml",
+		"/var/log/soforCms/legaturiError/Legatura_6852.xml",
+		"/var/log/soforCms/legaturiError/Legatura_7264.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0556.xml",
+		"/var/log/soforCms/legaturiError/Legatura_2447.xml",
+		"/var/log/soforCms/legaturiError/Legatura_2102.xml",
+		"/var/log/soforCms/legaturiError/Legatura_1027.xml",
+		"/var/log/soforCms/legaturiError/*.xml",
+		"/var/log/soforCms/legaturiError/Legatura_7112.xml",
+		"/var/log/soforCms/legaturiError/Legatura_7112.flat.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_7112.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_7112.html",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/_cabinet_database/legislatiesintetice/cuprins_docs/2003/00070193-2014-02-01.txt",
+		"/data/raduwHome/dev/00070193.xml",
+		"/data/soforCmsData/legacyImport/00100086.xml",
+		"/data/soforCmsData/FilesFromAdi/2015-02-08/ReadMe.md",
+		"/data/soforCmsData/legacyDoc.xml/2003/00070193.xml",
+		"/var/log/soforCms/untitled",
+		"/var/log/soforCms/legaturiError/Legatura_52232.original.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0005.xml",
+		"/var/log/soforCms/legaturiError/Legatura_0001.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/data/soforCmsData/docsAndDb/cmsGlobalRepository/L1_000/L2_000",
+			"/data/soforCmsData/docsAndDb/cmsGlobalRepository/L1_000",
+			"/home/raduw/dev/SoforCms/",
+			"/home/raduw/dev/SoforCms/*.py",
+			"/home/raduw/dev/SoforCms"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"},\n",
+			",",
+			";",
+			"\n	",
+			"<Node",
+			"From",
+			"Select",
+			"\"",
+			"SELECT",
+			"cms_legaldocmodification",
+			"\"",
+			"Where",
+			"FROM",
+			"args",
+			"From",
+			"args=",
+			"\"",
+			"Profiling for docId:",
+			"\n<",
+			"\\([^)]+\\)",
+			"LegalType.",
+			"modi",
+			"modifi",
+			"  ",
+			"modifyingDoc",
+			"From",
+			"<LegalDocModification",
+			"LegalModification",
+			"</error>",
+			"<error",
+			"LegalDocModification",
+			"(Value",
+			"error>",
+			"doc-,",
+			"articol",
+			"art-",
+			"adjustment:-1\nadjustment:-1",
+			"adjustment:-1",
+			"2015",
+			"if elm.text.find('-****-') >= 0:",
+			"co",
+			"\"},\n",
+			"lego",
+			"<xs:element",
+			"xs:attribute",
+			"\"",
+			"-****-",
+			"*----*",
+			"	{\"",
+			"time",
+			"\"},\n",
+			"main",
+			"Development",
+			"raduw",
+			"menu",
+			"214321",
+			"&#",
+			"paragraful ",
+			"art-107",
+			"sec-iii",
+			"213490",
+			"66115",
+			"LegalDocChange",
+			"155908",
+			"154371",
+			"159867",
+			"153306",
+			"158110",
+			"157605",
+			"153783",
+			"152061",
+			"159356",
+			"160396",
+			"156198",
+			"152355",
+			"152350",
+			"158454",
+			"152959",
+			"153010",
+			"152346",
+			"152147",
+			"152145",
+			"151828",
+			"'LegacyDocNotFound'",
+			"Could not parse node:",
+			"unkwnown node type",
+			"LegalType",
+			"LegalType.",
+			"Body Start",
+			"node:",
+			"Could Not par",
+			"Exception: ('LegacyDocNotFound',",
+			"Exception: ('LegacyDocNotFound",
+			"AttributeError: 'NoneType' object has no attribute",
+			"Could not parse node",
+			"float",
+			"proiectarea anco",
+			"konsoleprofile",
+			"tab",
+			"wsgisc",
+			".py",
+			"^/home/raduw/dev/SoforCms/src/.*py:",
+			"/home/radu",
+			">>>",
+			"    return modules\n",
+			"\n    ",
+			"<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\t",
+			",",
+			"\\t\\t",
+			"",
+			"ldm",
+			"",
+			" ",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true
+}
