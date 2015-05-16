@@ -7,6 +7,40 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "params.json",
+			"settings":
+			{
+				"buffer_size": 2027,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.md",
+			"settings":
+			{
+				"buffer_size": 351,
+				"line_ending": "Unix",
+				"name": "---"
+			}
+		},
+		{
+			"contents": "INSTALLATION INSTRUCTIONS\n\nCopy the pycharm-*.tar.gz to the desired installation location \n(make sure you have rw permissions for that directory)\nUnpack the pycharm-*.tar.gz using the following command: \ntar xfz pycharm-*.tar.gz\nRemove the pycharm-*.tar.gz to save disk space (optional)\nRun pycharm.sh from the bin subdirectory\nNOTE: PyCharm on Linux doesn't need special installation or running any installation script. It runs out of the pycharm-*.tar.gzEE\n\n\nimport sys; print('Python %s on %s' % (sys.version, sys.platform))\nsys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])\n\n\n\nimport sys; print('Python %s on %s' % (sys.version, sys.platform))\nimport django; print('Django %s' % django.get_version())\nsys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])\nif 'setup' in dir(django): django.setup()\nimport django_manage_shell; django_manage_shell.run(PROJECT_ROOT)",
+			"settings":
+			{
+				"buffer_size": 858,
+				"line_ending": "Unix",
+				"name": "INSTALLATION INSTRUCTIONS"
+			}
+		},
+		{
+			"file": "/home/raduw/.bashrc",
+			"settings":
+			{
+				"buffer_size": 3690,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -182,6 +216,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\\r\\n",
 			"},\n",
 			",",
 			";",
@@ -314,8 +349,117 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "params.json",
+					"settings":
+					{
+						"buffer_size": 2027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1561,
+								1561
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 13100.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test.md",
+					"settings":
+					{
+						"buffer_size": 351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "---",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 858,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								858,
+								858
+							]
+						],
+						"settings":
+						{
+							"auto_name": "INSTALLATION INSTRUCTIONS",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/raduw/.bashrc",
+					"settings":
+					{
+						"buffer_size": 3690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3689,
+								3689
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1409.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
