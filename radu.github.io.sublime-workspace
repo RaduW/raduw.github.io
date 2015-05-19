@@ -40,6 +40,23 @@
 				"buffer_size": 3690,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "/data/raduwHome/dev/SoforCms/DATA/00070193-2015-02-13.xml",
+			"settings":
+			{
+				"buffer_size": 5530280,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "inlocuieste = 1,\nabroga = 2,\nrectifica = 3,\nreferinteDeAplicare = 4,\nrepublicare = 5,\natacaExceptieRespinsa = 6,\nsuspenda = 7,\nadopta = 8,\ncompleteaza = 9,\natacaExceptieAdmisa = 10,\ninLegaturaCu = 11,\nrecursInInteresulLegii = 12,\nreglementeaza = 13,\nmodifica = 14,\ncomparatCu = 15,\naproba = 16,\nrespingere = 17,\natacaExceptieAdmisaPartial = 18,\naccepta = 19,\ndenunta = 20,\nelimina = 21,\nrespinge = 22,\npromulga = 23,\ncomentariu = 24,\nratifica = 25,\nlegislatieRelevanta = 26\n\n\ndelete= 1, //marks an xml element as deleted\nappendSiblings= 2, //appends a sequence of  xml elements after the specified specified xml element as a sibblings\nappendChildren= 3, //appends a sequence of xml Elements as children of the specified element\nmoveInside= 4, //moves an exiting sequence of elements inside an existing node\n",
+			"settings":
+			{
+				"buffer_size": 807,
+				"line_ending": "Unix",
+				"name": "inlocuieste = 1,"
+			}
 		}
 	],
 	"build_system": "",
@@ -216,6 +233,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\"",
+			"=",
+			"\"",
+			";",
 			"\\r\\n",
 			"},\n",
 			",",
@@ -331,6 +352,11 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
+			"= ",
+			"",
+			"=",
+			":",
 			"\\t",
 			",",
 			"\\t\\t",
@@ -349,7 +375,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -456,6 +482,60 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 1409.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/data/raduwHome/dev/SoforCms/DATA/00070193-2015-02-13.xml",
+					"settings":
+					{
+						"buffer_size": 5530280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"settings":
+					{
+						"buffer_size": 807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								807,
+								807
+							]
+						],
+						"settings":
+						{
+							"auto_name": "inlocuieste = 1,",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
